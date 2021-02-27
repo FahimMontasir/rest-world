@@ -1,0 +1,12 @@
+.favorite {
+  background-color: rgb(243, 217, 217);
+  height: 100%;
+  padding: 10px;
+  border-bottom: 2px solid rgb(206, 204, 204);
+  border-bottom-right-radius: 100px;
+}
+.all-country {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

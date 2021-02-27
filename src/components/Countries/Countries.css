@@ -1,0 +1,30 @@
+.cart {
+  text-align: center;
+  border: 1px solid rgb(245, 189, 189);
+  width: 180px;
+  height: 260px;
+  margin: 15px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 5px 10px 30px grey;
+}
+.cart img {
+  height: 100px;
+  width: 180px;
+}
+button {
+  margin-top: 10px;
+  background-color: rgb(78, 71, 71);
+  color: rgb(250, 76, 76);
+  padding: 6px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.card-title {
+  font-size: 1rem;
+}
+.text {
+  text-align: start;
+  padding-left: 2px;
+}
